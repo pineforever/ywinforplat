@@ -1,0 +1,2 @@
+git remote add origin git@github.com:pineforever/ywinforplat.git
+git push -u origin master
